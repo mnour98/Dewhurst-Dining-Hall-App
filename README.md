@@ -20,5 +20,5 @@ Impact:
 This system **streamlines operations**, improves the **student dining experience**, and **reduces congestion during peak hours**, aligning with business process optimization goals.  
 
 Team Members: 
- Murielle
--  Mohamad Nour
+- Murielle
+- Mohamad Nour
