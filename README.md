@@ -19,6 +19,6 @@ Project Components:
 Impact: 
 This system **streamlines operations**, improves the **student dining experience**, and **reduces congestion during peak hours**, aligning with business process optimization goals.  
 
-Team Members  
+Team Members: 
  Murielle
  Mohamad Nour
